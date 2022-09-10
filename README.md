@@ -1,6 +1,6 @@
 # Richard Marquez
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rmarqu20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmarqu20&show_icons=true&locale=en&layout=compact" alt="Richard Marquez"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmarqu20&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&locale=en&layout=compact" alt="Richard Marquez"/></p>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=rmarqu20&repo=github-visitors-badge&countColor=%237B1E7A)
 
