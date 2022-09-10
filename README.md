@@ -1,4 +1,9 @@
-### Hi there 👋
+# Richard Marquez
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rmarqu20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmarqu20&show_icons=true&locale=en&layout=compact" alt="Richard Marquez"/></p>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=rmarqu20&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 <!--
 **rmarqu20/rmarqu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
