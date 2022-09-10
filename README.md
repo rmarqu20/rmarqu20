@@ -1,7 +1,7 @@
 # Richard Marquez
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rmarqu20&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&include_all_commits=true" />&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmarqu20&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&locale=en&layout=compact" alt="Richard Marquez"/>
 - 🔭 I’m currently working on adding my projects and school work to GitHub.
-- 🌱 I’m currently learning Swift and Minecraft Plugins.
+- 🌱 I’m currently learning Swift and Java for Minecraft Plugins.
 - 👯 I’m looking to collaborate on any IOS Applications.
 - 🤔 I’m looking for help with Minecraft Plugins.
 - 💬 Ask me about my future plans and interests.
