@@ -4,8 +4,7 @@
 - 🌱 I’m currently planning to learn HTML/CSS and JavaScript.
 - 👯 I’m looking to collaborate on any IOS or Web Applications.
 <!--
-- 🤔 I’m looking for help with Minecraft Plugins.
--->
+- 🤔 I’m looking for help with Minecraft Plugins. -->
 - 💬 Ask me about my future plans and interests.
 - 📫 How to reach me: Richard17256@gmail.com
 - 😄 Pronouns: He/Him
