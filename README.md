@@ -6,7 +6,6 @@
 - 💬 Ask me about my future plans and interests.
 - 📫 How to reach me: Richard17256@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 22 years old.
 
 <!--
 ![](https://api.visitorbadge.io/api/VisitorHit?user=rmarqu20&repo=github-visitors-badge&countColor=%237B1E7A)
@@ -15,7 +14,6 @@
 **rmarqu20/rmarqu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
